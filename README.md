@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a graphic design student who wants to specialize in UI/UX eventually and learn some light coding to complement it.
+
+I'm interested in the visual arts including drawing, animation, and photography.
+
+![me](https://github.com/ejrole/ejrole/assets/68717749/e98a666a-34be-4ae9-ba52-0847b0e828a6)
+me
+
+![blender1](https://github.com/ejrole/ejrole/assets/68717749/4818734a-edc4-4500-b70f-ca947e88d710)
+a blender experiment
+
 <!--
 **ejrole/ejrole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
